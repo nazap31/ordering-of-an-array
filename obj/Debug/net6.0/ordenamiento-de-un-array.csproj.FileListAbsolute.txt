@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\bin\Debug\net6.0\ordenamiento-de-un-array.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\bin\Debug\net6.0\ordenamiento-de-un-array.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\bin\Debug\net6.0\ordenamiento-de-un-array.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\bin\Debug\net6.0\ordenamiento-de-un-array.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\bin\Debug\net6.0\ordenamiento-de-un-array.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\refint\ordenamiento-de-un-array.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ordenamiento-de-un-array.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 13-ordenamiento de un array C#\ordenamiento-de-un-array\obj\Debug\net6.0\ref\ordenamiento-de-un-array.dll
